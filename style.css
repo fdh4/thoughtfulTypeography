@@ -1,0 +1,50 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h3 {
+    margin: 0 auto;
+    line-height: 1.25em;
+}
+
+h4 {
+    margin-bottom: 1.5%;
+}
+
+h3, h4 {
+    text-align: center;
+}
+
+p {
+    padding-left: 5%;
+    padding-right: 25%;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.container {
+    margin-left: 5%;
+}
+
+#bottom{
+    margin-top: -1%;
+    margin-bottom: 0;
+}
+
+/*p.bold {
+    font-weight: bold;
+}
+
+p.tall {
+    line-height: 1.5em;
+}*/
+
+/*p.large {
+    font-size: 24px;
+}*/
+
